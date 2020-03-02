@@ -21,10 +21,20 @@ BPMN은 무조건 Start Event로 시작해서 Activity를 표현하고 End Event
 
 ### Event
 - Start
+  ![](event/start_event.png)
 - Intermediate
+  ![](event/intermediate_event.png)
 - End
+  ![](event/end_event.png)
 
 ### Activity (Task)
+- Task
+  ![](activity/task.png)
+- Sub-process
+  ![](activity/subprocess.png)
+- Transaction
+  ![](activity/transaction.png)
+
 
 ### Connections
 - Sequence Flow
@@ -37,7 +47,12 @@ BPMN은 무조건 Start Event로 시작해서 Activity를 표현하고 End Event
 ### Gateway
 
 
+## Online Tool
+- [Lucid Chart](https://www.lucidchart.com/)
 
 ## 참고 링크
-> [비즈니스 프로세스를 그리자](https://medium.com/@goldfing/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EC%9E%90-bpmn-2-0-3730b3295dcf
+- [비즈니스 프로세스를 그리자](https://medium.com/@goldfing/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EC%9E%90-bpmn-2-0-3730b3295dcf
 )
+- [Diagram Symbols & Notation](https://www.lucidchart.com/pages/bpmn-symbols-explained)
+
+
